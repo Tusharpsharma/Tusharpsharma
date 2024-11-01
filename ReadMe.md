@@ -1,5 +1,7 @@
 # 💫 About Me:
-SQL & Pansas
+Dedicated and outcome-focused professional with hands-on experience in Investment Banking operations within a reputable organization. Consistently recognized for delivering high-quality results and maintaining a stellar workplace record. 
+
+Currently working on projects on SQL, Power BI and Pandas
 
 
 # 💻 Tech Stack:
